@@ -5,6 +5,7 @@ from nextcord.ext import commands
 class info(commands.Cog):
 
     def __init__(self,bot:nextcord.Client):
+        
         self.bot = bot
     
     # user info

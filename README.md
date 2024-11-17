@@ -15,6 +15,7 @@
 - Create Role
 - Delete Role
 - Remove Role
+- Say Command
 - Kick Command
 - Ban Command
 - UnBan Command
