@@ -7,6 +7,8 @@ from nextcord.ext import commands
 
 intents = nextcord.Intents.all()
 intents.members = True
+intents.dm_messages = True
+intents.guild_messages = True
 
 bot = commands.Bot(command_prefix='!',intents=intents)
 
