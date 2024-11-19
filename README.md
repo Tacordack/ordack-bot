@@ -11,6 +11,7 @@
 - Delete Messages
 - Send Joke
 - Send Random Emoji
+- Send Random Number
 - Add Role
 - Create Role
 - Delete Role
