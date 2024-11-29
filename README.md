@@ -8,6 +8,7 @@
 - Show Activity
 - Show User Info
 - Show Server Info
+- Show Minecraft Skin
 - Delete Messages
 - Send Joke
 - Send Random Emoji
