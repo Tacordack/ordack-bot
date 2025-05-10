@@ -23,5 +23,6 @@
 - UnBan Command
 
 ## 📝 Made With
-- [Python](https://github.com/python)
-- [Nextcord](https://github.com/nextcord/nextcord)
+[🐍 Python](https://github.com/python)
+
+[🎮 Nextcord](https://github.com/nextcord/nextcord)
