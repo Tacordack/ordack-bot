@@ -3,24 +3,24 @@
 <img src="preview.png">
 
 ## 🕹 Features
-- Show Ping
+- Add Role
+- Delete Role
+- Create Role
+- Remove Role
 - Show Avatar
 - Show Activity
+- Send Joke
+- Show Ping
 - Show User Info
 - Show Server Info
-- Show Minecraft Skin
-- Delete Messages
-- Send Joke
-- Send Random Emoji
-- Send Random Number
-- Add Role
-- Create Role
-- Delete Role
-- Remove Role
 - Say Command
-- Kick Command
 - Ban Command
 - UnBan Command
+- Kick Command
+- Delete Messages
+- Show Minecraft Skin
+- Send Random Emoji
+- Send Random Number
 
 ## 📝 Made With
 [🐍 Python](https://github.com/python)
